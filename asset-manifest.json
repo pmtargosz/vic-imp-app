@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vic-imp-app/static/css/main.52d2e9e4.chunk.css",
+    "main.js": "/vic-imp-app/static/js/main.eeb2115d.chunk.js",
+    "main.js.map": "/vic-imp-app/static/js/main.eeb2115d.chunk.js.map",
+    "runtime~main.js": "/vic-imp-app/static/js/runtime~main.556ea7df.js",
+    "runtime~main.js.map": "/vic-imp-app/static/js/runtime~main.556ea7df.js.map",
+    "static/js/2.7b7c14f8.chunk.js": "/vic-imp-app/static/js/2.7b7c14f8.chunk.js",
+    "static/js/2.7b7c14f8.chunk.js.map": "/vic-imp-app/static/js/2.7b7c14f8.chunk.js.map",
+    "index.html": "/vic-imp-app/index.html",
+    "precache-manifest.6594475f580fcf8b60bd36b19033675b.js": "/vic-imp-app/precache-manifest.6594475f580fcf8b60bd36b19033675b.js",
+    "sw.js": "/vic-imp-app/sw.js",
+    "static/css/main.52d2e9e4.chunk.css.map": "/vic-imp-app/static/css/main.52d2e9e4.chunk.css.map",
+    "static/media/slide.scss": "/vic-imp-app/static/media/squiz-brushmarks.d34b957a.svg"
+  }
+}
